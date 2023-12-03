@@ -6,8 +6,9 @@ import lombok.Setter;
 
 @Getter
 @Setter
-public class BookMovieResponseDto {
-    private int amount;
-    private Long boookingId;
+public class SignUpReponseDto {
+
     private ResponseStatus responseStatus;
+    private Long userId;
+
 }

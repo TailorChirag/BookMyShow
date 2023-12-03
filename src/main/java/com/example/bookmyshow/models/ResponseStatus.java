@@ -1,4 +1,4 @@
-package com.example.bookmyshow.dtos;
+package com.example.bookmyshow.models;
 
 public enum ResponseStatus {
     SUCCESS,

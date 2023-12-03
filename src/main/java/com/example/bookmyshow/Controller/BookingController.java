@@ -3,7 +3,7 @@ package com.example.bookmyshow.Controller;
 import com.example.bookmyshow.Services.BookingService;
 import com.example.bookmyshow.dtos.BookMovieRequestDto;
 import com.example.bookmyshow.dtos.BookMovieResponseDto;
-import com.example.bookmyshow.dtos.ResponseStatus;
+import com.example.bookmyshow.models.ResponseStatus;
 import com.example.bookmyshow.models.Booking;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
